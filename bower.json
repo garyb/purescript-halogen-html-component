@@ -1,0 +1,22 @@
+{
+  "name": "purescript-halogen-html-component",
+  "homepage": "https://github.com/garyb/purescript-halogen-html-component",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/garyb/purescript-halogen-html-component.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^3.0.0",
+    "purescript-halogen": "^2.1.0",
+    "purescript-unsafe-reference": "^2.0.0"
+  }
+}
